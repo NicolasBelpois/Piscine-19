@@ -1,0 +1,5 @@
+Credentials cache: API:4472EC86-B2C3-4AD3-8621-F3FDE11D7E7E
+        Principal: nbelpois@S19.BE
+
+  Issued                Expires               Principal
+Apr 30 16:04:36 2018  May  1 16:04:32 2018  krbtgt/S19.BE@S19.BE
